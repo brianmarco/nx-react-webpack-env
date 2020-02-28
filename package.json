@@ -1,0 +1,22 @@
+{
+  "name": "@brianmarco/nx-react-webpack-env",
+  "version": "0.1.0",
+  "description": "Extended @nrwl/react/plugins/webpack configuration with env support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmarco/nx-react-webpack-env.git"
+  },
+  "author": "Brian Marco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianmarco/nx-react-webpack-env/issues"
+  },
+  "homepage": "https://github.com/brianmarco/nx-react-webpack-env#readme",
+  "dependencies": {
+    "@nrwl/react": "^9.0.4"
+  }
+}
